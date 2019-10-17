@@ -178,7 +178,7 @@ li {
 /* #region Landing */
 .landing-page {
     height: 100vh;
-    background: url("../images/bg.webp") no-repeat center fixed;
+    background: url("../images/bg.webp") no-repeat center;
     background-size: cover;
 }
 
@@ -560,6 +560,10 @@ li {
     .open .bar.start {
         transform: rotate(-450deg) translateX(.5rem);
     }
+    .landing-page {
+        background: url("../images/bg.webp") no-repeat center;
+        background-size: cover;
+    }
     .landing-text h1 {
         font-size: 9rem;
         white-space: inherit;
@@ -639,6 +643,10 @@ li {
     }
     .open .bar.start {
         transform: rotate(-450deg) translateX(.5rem);
+    }
+    .landing-page {
+        background: url("../images/bg.webp") no-repeat center;
+        background-size: cover;
     }
     .landing-text h1 {
         font-size: 9rem;
@@ -742,6 +750,10 @@ li {
     .open .bar.start {
         transform: rotate(-450deg) translateX(1.2rem);
     }
+    .landing-page {
+        background: url("../images/bg.webp") no-repeat center;
+        background-size: cover;
+    }
     .landing-text h1 {
         font-size: 12rem;
         white-space: inherit;
@@ -814,6 +826,10 @@ li {
     }
     .open .bar.start {
         transform: rotate(-450deg) translateX(.5rem);
+    }
+    .landing-page {
+        background: url("../images/bg.webp") no-repeat center;
+        background-size: cover;
     }
     .landing-text h1 {
         font-size: 14rem;
