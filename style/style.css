@@ -17,8 +17,6 @@ body {
     font-size: 14px;
     line-height: 1.42857143;
     color: #ffffff;
-    background: url("../images/bg.webp") no-repeat center fixed;
-    background-size: cover;
 }
 
 img {
@@ -180,6 +178,8 @@ li {
 /* #region Landing */
 .landing-page {
     height: 100vh;
+    background: url("../images/bg.webp") no-repeat center fixed;
+    background-size: cover;
 }
 
 .landing-text {
@@ -477,6 +477,8 @@ li {
     text-align: center;
     padding: 2rem 0;
     position: relative;
+    background: url("../images/bg.webp") no-repeat center fixed;
+    background-size: cover;
 }
 
 .up {
