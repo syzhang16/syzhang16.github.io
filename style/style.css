@@ -477,7 +477,7 @@ li {
     text-align: center;
     padding: 2rem 0;
     position: relative;
-    background: url("../images/bg.webp") no-repeat center fixed;
+    background: url("../images/bg.webp") no-repeat center;
     background-size: cover;
 }
 
