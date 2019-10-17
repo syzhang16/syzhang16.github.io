@@ -615,7 +615,10 @@ li {
     }
     .copyright {
         padding: 2rem;
+        background: url("../images/bg.webp") no-repeat center;
+        background-size: cover;
     }
+
 }
 
 @media only screen and (min-width: 576px) and (max-width: 768px) {
@@ -700,6 +703,8 @@ li {
     }
     .copyright {
         padding: 2rem;
+        background: url("../images/bg.webp") no-repeat center;
+        background-size: cover;
     }
 }
 
@@ -805,6 +810,8 @@ li {
     }
     .copyright {
         padding: 2rem;
+        background: url("../images/bg.webp") no-repeat center;
+        background-size: cover;
     }
 }
 
@@ -872,6 +879,8 @@ li {
     }
     .copyright {
         padding: 2rem;
+        background: url("../images/bg.webp") no-repeat center;
+        background-size: cover;
     }
 }
 
