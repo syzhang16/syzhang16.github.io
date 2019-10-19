@@ -481,10 +481,10 @@ li {
 
 .up {
     position: absolute;
-    width: 5rem;
-    height: 5rem;
+    width: 4rem;
+    height: 4rem;
     background-color: #9db4c0;
-    top: -2.5rem;
+    top: -2rem;
     right: 5rem;
     border-radius: 100%;
     display: flex;
@@ -494,7 +494,7 @@ li {
 
 .up i {
     color: #2b2b2b;
-    font-size: 2rem;
+    font-size: 1.5rem;
     margin: auto;
 }
 
